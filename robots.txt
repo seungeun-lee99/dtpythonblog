@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://seungeun-lee99.github.io/dtpythonblog/sitemap.xml
